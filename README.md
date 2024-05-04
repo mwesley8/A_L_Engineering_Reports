@@ -9,5 +9,7 @@
 </brk>
 <p>At first, the roller coaster design project seemed very intimidating. I did not fully grasp the connection between Kinetic energy, Potential energy, and Momentum until after I had to calculate the values for the initial drop and first peak. The final project helped me to better understand energy conservation.</p>
 </brk>
+![image](https://github.com/mwesley8/A_L_Engineering_Reports/assets/105822088/0393f3c8-59ba-4577-8203-0c1a2dde4895)
+
 </brk>
 <p>Maurice Wesley</p>
