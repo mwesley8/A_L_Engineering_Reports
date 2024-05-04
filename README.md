@@ -1,4 +1,4 @@
-#A&L Engineering Retrospective
+A&L Engineering Retrospective
 
 Recently, I successfully completed Physics 150 as it relates to classical Newtonian physics. The course not only increased my awareness of the impact that physics has on daily life, but also solidified some concepts that I had previously learned. I really enjoyed exploring one/two dimensional Kinematic applications.
 
