@@ -6,7 +6,7 @@ During the course, I mentioned my hobby. It was exciting to calculate the distan
 
 There was a shift in my understanding of how to calculate final velocity during a free fall. This caused an error in my calculations that propagated throughout my report. I discovered the time independent equation after the instructor corrected the disconnect in my learning process.
 
-The elastic collision lab was the most time consuming. Alternative, it was the most enjoyable. It has been a while since I have played with little blue carts on an incline plane. Smiling as I watched them slam into the showbox. Making loud clanging noises like a kid with no worries.
+The elastic collision lab was the most time consuming. Alternatively, it was the most enjoyable. It has been a while since I have played with little blue carts on an incline plane. Smiling as I watched them slam into the shoebox. Making loud clanging noises like a kid with no worries.
 
 At first, the roller coaster design project seemed very intimidating. I did not fully grasp the connection between Kinetic energy, Potential energy, and Momentum until after I had to calculate the values for the initial drop and first peak. The final project helped me to better understand energy conservation.
 
